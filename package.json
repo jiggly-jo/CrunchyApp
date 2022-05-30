@@ -1,0 +1,19 @@
+{
+  "name": "crunchy-app",
+  "version": "1.0.0",
+  "description": "Website to see all your personal crunchyroll data and manage your queue. Search animes, episodes. Can also download episodes.",
+  "main": "crunchy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiggly-jo/CrunchyApp.git"
+  },
+  "author": "John Huynh <huynhjohn2021@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiggly-jo/CrunchyApp/issues"
+  },
+  "homepage": "https://github.com/jiggly-jo/CrunchyApp#readme"
+}
